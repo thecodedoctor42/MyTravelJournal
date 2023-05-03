@@ -29,7 +29,7 @@ export default [
         location: "FIJI",
         googleMapsUrl: "https://www.google.com/maps/place/Turtle+Island+Fiji/@-16.9654468,177.3685481,17z/data=!3m1!4b1!4m9!3m8!1s0x6e179272beb4713d:0xd2f7ebd21a16567e!5m2!4m1!1i2!8m2!3d-16.9654468!4d177.3707368!16s%2Fg%2F1tk4rbqm",
         startDate: "3 Jan, 2023",
-        endDate: "1 Feb, 2024",
+        endDate: "1 Feb, 2023",
         description: "Turtle Island is a 500-acre private island retreat located in Fiji’s Yasawa Islands. Turtle Island offers a sustainable and authentic experience that celebrates the Fijian way of life.",
         image: fiji
     },
